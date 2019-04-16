@@ -7,3 +7,9 @@ ability of multi-sensory vision, but it consumes computing time. FPN
 has the ability to transform low-level semantics into high-level 
 semantics, and saves computing time. Using the advantages of both, 
 we propose this method.
+
+
+
+At present. This code has not been fully implemented yet, but all 
+functions will be implemented in the near future.
+
